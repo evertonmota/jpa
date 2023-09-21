@@ -1,0 +1,5 @@
+com\minhaempresa\application\services\CustomerService.class
+com\minhaempresa\application\services\PizzaService.class
+com\minhaempresa\application\services\RequestService.class
+org\example\Main.class
+infrastructure\utils\EntityManagerFactorySingleton.class
